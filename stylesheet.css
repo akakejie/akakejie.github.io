@@ -20,6 +20,17 @@ h1
         border-radius: 10px;
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
+h2
+{
+        text-shadow: 1px 1px #2E3944;        
+        background: #D3D9D4;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        border-left: 5px solid #748D92; 
+        display: inline-block;
+}
+    
     
 body 
 {
