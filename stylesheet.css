@@ -36,8 +36,9 @@ h2
         border-radius: 10px;
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
         border-left: 5px solid #748D92; 
-        display: inline-block;
+        display: inline-flex;
         box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+        margin-left: 20px;
 
 }
     
